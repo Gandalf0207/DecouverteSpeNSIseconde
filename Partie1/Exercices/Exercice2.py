@@ -1,4 +1,4 @@
-# Exercie 2
+# Exercice 2
 # Boucles et collections : "Compteur de voyelles"
 
 """
