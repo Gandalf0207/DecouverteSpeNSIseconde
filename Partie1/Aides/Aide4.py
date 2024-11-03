@@ -19,11 +19,11 @@ Veillez à bien commenter et votre code !
 # Exercice Aide
 
 # Vous devez créer vos différentes listes de valeurs : lettres, nombres, caractères spéciaux...
-# Votre mot de passe doit etre le la longueur donné par l'utilisateur,
+# Votre mot de passe doit être de la longueur donné par l'utilisateur,
 # il vous faut donc utiliser une boucle pour ajouter le bon nombre de caractère à votre mot de passe
 
-# Afin d'ajouter une variété de position des caractères, vous pouvez sélectionner diférents
-# nombres choisis aléatoirement pour prendre une valeur dans les liste correspondente.
+# Afin d'ajouter une variété de position des caractères, vous pouvez sélectionner différents
+# nombres, choisis aléatoirement pour prendre une valeur dans les listes correspondentes.
 
 
 from random import random, randint, choice

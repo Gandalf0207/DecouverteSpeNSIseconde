@@ -18,7 +18,7 @@ Veillez à bien commenter et votre code !s
 
 
 # Vous devez prendre en compte le type de mesure de temperature pour pouvoir déterminer quel calcul effectuer. 
-# En fonction du typed de temperature donc, affectuer une comparaison pour appliquer la bonne méthode de calcul.
+# En fonction du type de temperature donc, effectuez une comparaison pour appliquer la bonne méthode de calcul.
 
 def Convertisseur(temperatureType, temperature):
 
