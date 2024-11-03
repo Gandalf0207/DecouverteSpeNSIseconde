@@ -1,4 +1,4 @@
-# Corection 4
+# Correction 4
 # Mini-application : "Le générateur de mots de passe"
 
 """

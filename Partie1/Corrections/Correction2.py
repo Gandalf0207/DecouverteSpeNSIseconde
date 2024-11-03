@@ -18,7 +18,7 @@ Exercice Avancé (facultatif) : Ajouter de nouveaux compteurs à votre programme
 Veillez à bien commenter et votre code !
 """
 
-# Exercice Coreection 
+# Exercice Correction 
 
 def Calculator(entree):
     """ Fonction permettant de compter le nombre de voyelle dans une phrase, donnée par l'utilitateur.
