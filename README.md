@@ -51,4 +51,4 @@ Ce projet est ouvert et destiné à l’apprentissage. Vous pouvez l’utiliser 
 
 # 
 
-*by Théo LUBAN & Quentin PLADEAU whith ❤️*
+*by Théo LUBAN & Quentin PLADEAU with ❤️*
