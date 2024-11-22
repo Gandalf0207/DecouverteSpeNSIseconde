@@ -1,4 +1,4 @@
-# Aide 3
+# Exercice 3
 # Introduction aux listes et aux fonctions : "Moyenne finale"
 
 """
@@ -19,6 +19,9 @@ votre programme devra afficher à la suite :
 Il est conseillé d'utiliser les listes python pour les plus avancés
 
 Veillez à bien commenter et votre code !
+
+Completer les éléments #...
+
 """
 
 """
@@ -47,33 +50,28 @@ Exemples :
 
 """
 
-# Exercice Aide
-
-# Votre boucle doit ajouter une nouvelle note à une liste avec la méthode liste.append(value)
-# Vous devez ajouter toutes les notes ensemble pour pouvoir calculer la moyenne. 
-# Utiliser une boucle for pour parcourir la liste et ajouter chaque note ensemble.
-
 def BulletinsDeNotes(notes):
     # Calcus de la moyenne : 
-    # ...
-    # ...
+    nbNote = len(notes) # Nombre de note 
+    #...  # Total des notes additionnés, par défaut  : 0
+    for note in #... : # Boucle qui va additionner toutes les notes.
+        total += #...
 
-    # Affichage : 
-    #...
+    moyenne = #... / #...  # Calcul de la moyenne
 
-    pass
+
+    print(f"Moyenne = {round(#..., 2)}")   # Afffichage de la moyenne avec un arrondis au centième près 
+    return None
+
+
 
 nombreNote = int(input("Nombre de note : ")) # Nombre de note attendu
 listeNote = [] # Liste qui va contenir les notes
 
-for note in range(nombreNote): # Boucle de la longueur du nombre de note
-    pass
-    # newNote
-    # ajout de la nouvelle note
 
-BulletinsDeNotes(listeNote) # Appel de la foncton avec la liste de note complete
+for note in #... : # Boucle de la longueur du nombre de note
+    newNote = float(input(f"Note {note + 1} : ")) # Nouvelle note
+    listeNote.append(#...) # Ajout de la nouvelle note
 
 
-
-# Exercice Avancé Aide
-# ///
+BulletinsDeNotes(listeNote)
