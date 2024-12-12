@@ -7,7 +7,7 @@ Concepts : Listes, boucles (for), fonctions (def), calculs statistiques simples.
 
 -----
 
-Exercice : Demander à l’utilisateur le nombre de note de matière, qu'il devra entrer par la suite, 
+Exercice : Demander à l’utilisateur le nombre de note et de matière, qu'il devra entrer par la suite, 
 calculer la moyenne et afficher la note finale.
 
 Exercice Avancé (facultatif) : Après avoir calculer la moyenne avec 2 notes ou plus,
