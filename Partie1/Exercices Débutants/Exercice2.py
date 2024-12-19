@@ -23,7 +23,7 @@ Completer les éléments #...
 
 def Calculator(entree):
 
-    entree = entree.lower() # Toute la est passé un minuscule pour pouvoi compter les voyelles Majuscule ex : "Apprendre" 
+    entree = entree.lower() # Toute la chaine est passé un minuscule pour pouvoir compter les voyelles Majuscule ex : "Apprendre"  = "apprendre"
     listeVoyelle = ["#..."] # liste des voyelles en minuscule
     #...  # compteur de voyelle, valeur initiale : 0
 
