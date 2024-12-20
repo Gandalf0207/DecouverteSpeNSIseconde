@@ -19,11 +19,11 @@ temperatureType = int(input("Valeur saisie en : \n   Celsius : 1 \n    Fahrenhei
 temperature = #... # Valeur à convertir
 if #... : # Comparaison temperature en Celsius
     newTemperature = # ...     # C° ->  °F
-    print(temperature, "C° = ", newTemperature, "F°"
+    print(temperature, "C° = ", newTemperature, "F°")
     
 elif #... : # Comparaison temperature en Fahrenheit
     newTemperature = #...    # °F -> C°
-    print(temperature, "F° = ", newTemperature, "C°"
+    print(temperature, "F° = ", newTemperature, "C°")
     
 else: # Si la valeur du type de température est différente des entrées possibles
     print("...") # On affiche un information d'erreur
